@@ -16,7 +16,7 @@
 ### Cybersecurity ToolBox
 [![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) 
 <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite"> <img src="./wireshark.png" width="48" height="48" alt="WireShark">
-<img src="./nmap.jpeg" width="48" height="48" rx="18" alt="NMAP">
+<img src="./nmap.jpeg" width="48" height="48" style = "border-radius:12px;" alt="NMAP">
 
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
@@ -82,12 +82,7 @@
 ![Maximus' GitHub stats](https://github-readme-stats.vercel.app/api?username=maximus-soares&show_icons=true&theme=gruvbox)
 
 ---
-
-## Links
-
-- [**Portfolio**](https://learn.nextwork.org/happy_maroon_jolly_red_currant/portfolio)
-- [**Contact**](mailto:bcmouli2006@gmail.com)
-- [**Resume**](https://drive.google.com/file/d/1jb92oTicUfBztQEmi1TTfmp6aHDNX9hh/view?usp=drive_link)
+## Connect With Me
   
 <a href="mailto:bcmouli2006@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="LinkedIn" />
@@ -98,6 +93,17 @@
 </a>
 
 
+<a href="https://medium.com/@chandra_1810" target="blank">
+  <img src="./medium.png" width="48" height="48"" alt="Medium" />
+</a>
 
-# GitHub Streak
+
+
+
+---
+## Employer ?
+[**Download my resume**](https://drive.google.com/file/d/1jb92oTicUfBztQEmi1TTfmp6aHDNX9hh/view?usp=drive_link)
+
+
+
 
