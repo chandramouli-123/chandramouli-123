@@ -16,7 +16,8 @@
 ### Cybersecurity ToolBox
 [![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) 
 <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite"> <img src="./wireshark.png" width="48" height="48" alt="WireShark">
-<img src="./nmap.jpeg" width="48" height="48" style="border-radius: 12px;" alt="NMAP">
+<img src="./nmap-rounded.png" width="48" height="48" alt="NMAP">
+<img src="./railway.jpeg" width="48" height="48" style="border-radius: 12px;" alt="NMAP">
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
@@ -28,9 +29,9 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">
-        <img src="http://learn.nextwork.org/happy_maroon_jolly_red_currant/uploads/ai-llm-deepseek_gggggggg"
-             alt="DeepSeek AI Project"
+      <a href="https://github.com/chandramouli-123/micro-redis-vault/blob/master/README.md">
+        <img src="./uredis.png"
+             alt="Micro-Redis-Vault"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
