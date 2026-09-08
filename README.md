@@ -16,8 +16,7 @@
 ### Cybersecurity ToolBox
 [![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) 
 <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite"> <img src="./wireshark.png" width="48" height="48" alt="WireShark">
-<img src="./nmap.jpeg" width="48" height="48" style = "border-radius:12px;" alt="NMAP">
-
+<img src="./nmap.jpeg" width="48" height="48" style="border-radius: 12px;" alt="NMAP">
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
