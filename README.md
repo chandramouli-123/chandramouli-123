@@ -98,7 +98,9 @@
 </a>
 
 
-
+<a href="https://substack.com/@chandramoulibaskaran" target="blank">
+  <img src="./substack.png" width="48" height="48"" alt="Substack" />
+</a>
 
 ---
 ## Employer ?
