@@ -12,12 +12,12 @@
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,github,postgres,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,aws,docker,gcp,git,github,postgres,linux&theme=dark)](https://skillicons.dev)<img src="./railway.webp" width="48" height="48" alt="Railway">
 ### Cybersecurity ToolBox
 [![Cybersec Tools](https://skillicons.dev/icons?i=kali,postman,bash&theme=dark)](https://skillicons.dev) 
 <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite"> <img src="./wireshark.png" width="48" height="48" alt="WireShark">
-<img src="./nmap-rounded.png" width="48" height="48" alt="NMAP">
-<img src="./railway.jpeg" width="48" height="48" style="border-radius: 12px;" alt="NMAP">
+<img src="./nmap.webp" width="48" height="48" alt="NMAP">
+
 
 **Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
 
