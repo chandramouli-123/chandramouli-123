@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandramouli-123&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/chandramouli-123.svg?label=Profile%20Views&color=00b4d8&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Systems-00b4d8?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
 </p>
