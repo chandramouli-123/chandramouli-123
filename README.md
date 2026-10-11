@@ -33,24 +33,14 @@
 
 ---
 
-## 📜 Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
-</p>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 ### Languages, Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,bash,postgres,linux,docker,aws,gcp,git,github&theme=dark" alt="Core Skills" />
+    <img src="https://skillicons.dev/icons?i=c,python,java,bash,postgres,linux,docker,aws,gcp&theme=dark" alt="Core Skills" />
   </a>
-  <img src="./railway.webp" width="48" height="48" alt="Railway" title="Railway" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="./railway.webp" width="44" height="44" alt="Railway" title="Railway" style="vertical-align: middle; margin-left: 4px;" />
 </p>
 
 ### 🛡️ Cybersecurity & Pentesting Toolbox
@@ -58,9 +48,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,postman&theme=dark" alt="Security Tools" />
   </a>
-  <img src="./burp-suite.svg" width="48" height="48" alt="Burp Suite" title="Burp Suite" style="vertical-align: middle; margin-left: 4px;" />
-  <img src="./wireshark.png" width="48" height="48" alt="Wireshark" title="Wireshark" style="vertical-align: middle; margin-left: 4px;" />
-  <img src="./nmap.webp" width="48" height="48" alt="Nmap" title="Nmap" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="./burp-suite.svg" width="44" height="44" alt="Burp Suite" title="Burp Suite" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="./wireshark.png" width="44" height="44" alt="Wireshark" title="Wireshark" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="./nmap.webp" width="44" height="44" alt="Nmap" title="Nmap" style="vertical-align: middle; margin-left: 4px;" />
 </p>
 
 > **Core proficiencies**: Relational Databases (PostgreSQL), Cloud Networking (VPC, IAM, Security Groups), CI/CD Automation (GitHub Actions), Packet Inspection & Network Auditing.
@@ -73,7 +63,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/chandramouli-123/micro-redis-vault">
-        <img src="./uredis.png"
+        <img src="./redis-vault.svg"
              alt="Micro-Redis-Vault"
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
       </a>
@@ -118,6 +108,16 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📜 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
+</p>
 
 ---
 
