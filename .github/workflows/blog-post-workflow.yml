@@ -1,0 +1,25 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs once every 24 hours at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to manually trigger it from GitHub's Actions tab anytime!
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Inject Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@chandra_1810, https://chandramoulibaskaran.substack.com/feed"
+          max_post_count: 5
+          template: "$newline- [$title]($url) — *$date*"

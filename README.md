@@ -4,14 +4,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Backend+Engineer;DevOps+%26+Cloud+Enthusiast;Post-Quantum+Cryptography+%26+Hardware+Sec;Passionate+Problem+Solver">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Backend+Engineer;DevOps+%26+Cloud+Enthusiast;Post-Quantum+Cryptography+%26+Hardware+Sec;Passionate+Problem+Solver" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Breaking+systems+to+build+them+bulletproof;Exploring+Post-Quantum+Crypto+%26+Hardware+Sec;Building+low-latency+backends+%26+in-memory+stores;Dissecting+packets+%26+hardening+cloud+networks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Breaking+systems+to+build+them+bulletproof;Exploring+Post-Quantum+Crypto+%26+Hardware+Sec;Building+low-latency+backends+%26+in-memory+stores;Dissecting+packets+%26+hardening+cloud+networks" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandramouli-123&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Backend-00b4d8?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Systems-00b4d8?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
 </p>
 
@@ -19,11 +19,27 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Student**: Pre-final year student diving deep into **Cybersecurity**, **Backend Engineering**, and **DevOps**.
-- 🔐 **Research & Interests**: Actively exploring **Post-Quantum Cryptography** and **Hardware Security**.
-- ⚙️ **Systems & Cloud**: Love architecting resilient microservices, custom VPC networks, and CI/CD automation.
-- ✍️ **Technical Writing**: Sharing insights and tutorials on [Medium](https://medium.com/@chandra_1810) and [Substack](https://substack.com/@chandramoulibaskaran).
+- 🎓 Pre-final year student at **VIT Chennai** diving deep into **Cybersecurity**, **Backend Engineering**, and **Systems Architecture**.
+- ⚙️ Love architecting resilient in-memory stores, custom VPC networks, and low-level tools from scratch.
 - 💬 **Ask Me About**: In-memory stores, Linux internals, network packet analysis, and security hardening.
+
+---
+
+## 🧠 Brain-Scratching On...
+
+- 🔐 **Post-Quantum Cryptography**: Exploring lattice-based cryptographic algorithms and Keccak/SHA-3 implementations.
+- ⚡ **Low-Latency Systems**: Investigating memory layout, socket multiplexing, and concurrency bottlenecks in cache engines.
+- 🛡️ **Hardware Security**: Understanding physical side-channel leaks, fault injection, and hardware root-of-trust models.
+
+---
+
+## 📜 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_AI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Foundations" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
+</p>
 
 ---
 
@@ -63,7 +79,7 @@
       </a>
       <br/>
       <b>Micro-Redis Vault</b><br/>
-      <sub>Lightweight, Redis-compatible in-memory store engineered for high-throughput caching and security.</sub><br/><br/>
+      <sub>Lightweight, Redis-compatible in-memory store engineered for high throughput and security benchmarking.</sub><br/><br/>
       <a href="https://github.com/chandramouli-123/micro-redis-vault">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repo"/>
       </a>
@@ -71,34 +87,34 @@
       <sub><code>C/Python</code> • <code>In-Memory DB</code> • <code>Systems</code></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/chandramouli-123">
-        <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
-             alt="Cloud CI/CD Pipeline"
+      <a href="https://github.com/chandramouli-123/AI-Web-Scraper-new">
+        <img src="./scraper.svg"
+             alt="AI Web Scraper"
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
       </a>
       <br/>
-      <b>Automated Cloud CI/CD Pipeline</b><br/>
-      <sub>Zero-downtime automated deployment workflow leveraging GitHub Actions, Docker, and AWS.</sub><br/><br/>
-      <a href="https://github.com/chandramouli-123">
+      <b>AI Web Scraper</b><br/>
+      <sub>Automated extraction pipeline pairing headless Selenium browsing with LLM-assisted context parsing.</sub><br/><br/>
+      <a href="https://github.com/chandramouli-123/AI-Web-Scraper-new">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repo"/>
       </a>
       <br/>
-      <sub><code>DevOps</code> • <code>Docker</code> • <code>AWS</code> • <code>CI/CD</code></sub>
+      <sub><code>Python</code> • <code>Selenium</code> • <code>LLM Parsing</code></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/chandramouli-123">
-        <img src="https://camo.githubusercontent.com/6b6af843159b1de02c9a7ae1908b05a29b1c2383077f1c3d38a08ac7889c81bd/687474703a2f2f6c6561726e2e6e657874776f726b2e6f72672f68617070795f6d61726f6f6e5f6a6f6c6c795f7265645f63757272616e742f75706c6f6164732f6177732d6e6574776f726b732d7670635f3266616366393237"
-             alt="Secure AWS VPC Architecture"
+      <a href="https://github.com/chandramouli-123/sentinel-backend">
+        <img src="./sentinel.svg"
+             alt="Sentinel Backend"
              style="width:100%; height:180px; object-fit:cover; border-radius: 8px;"/>
       </a>
       <br/>
-      <b>Hardened AWS VPC Architecture</b><br/>
-      <sub>Custom isolated VPC with multi-tier public/private subnets, NAT gateways, and strict NACL rules.</sub><br/><br/>
-      <a href="https://github.com/chandramouli-123">
+      <b>Sentinel Backend</b><br/>
+      <sub>Robust backend service architected with Express and Node.js for security telemetry and state routing.</sub><br/><br/>
+      <a href="https://github.com/chandramouli-123/sentinel-backend">
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="Repo"/>
       </a>
       <br/>
-      <sub><code>AWS</code> • <code>Networking</code> • <code>Cybersecurity</code></sub>
+      <sub><code>Node.js</code> • <code>Express</code> • <code>Security API</code></sub>
     </td>
   </tr>
 </table>
@@ -118,17 +134,19 @@
 
 ---
 
-## ✍️ Publications & Blogs
+## ✍️ Technical Writing & Blogs
 
 <p align="left">
   <a href="https://medium.com/@chandra_1810" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles" />
+    <img src="./medium.png" width="44" height="44" alt="Medium" title="Read on Medium" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  &nbsp;
   <a href="https://substack.com/@chandramoulibaskaran" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-Subscribe%20on%20Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+    <img src="./substack.png" width="44" height="44" alt="Substack" title="Subscribe on Substack" style="vertical-align: middle;" />
   </a>
 </p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -141,12 +159,6 @@
   <a href="https://www.linkedin.com/in/chandramouli-baskaran-a09a78307/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="https://medium.com/@chandra_1810" target="_blank">
-    <img src="./medium.png" width="48" height="48" alt="Medium" title="Medium" style="vertical-align: middle; margin-left: 2px;" />
-  </a>
-  <a href="https://substack.com/@chandramoulibaskaran" target="_blank">
-    <img src="./substack.png" width="48" height="48" alt="Substack" title="Substack" style="vertical-align: middle; margin-left: 2px;" />
-  </a>
   <a href="https://github.com/chandramouli-123" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" />
   </a>
@@ -154,10 +166,10 @@
 
 ---
 
-## 💼 Looking for Opportunities?
+## 📄 Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jb92oTicUfBztQEmi1TTfmp6aHDNX9hh/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download-Resume%20%2F%20CV-0077b5?style=for-the-badge&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume (PDF)" />
   </a>
 </p>
