@@ -149,7 +149,8 @@
 - [When RAM Betrays Your Secrets: Building an Encrypted, Zero-Dependency Redis from Scratch](https://medium.com/@chandra_1810/when-ram-betrays-your-secrets-building-an-encrypted-zero-dependency-redis-from-scratch-e53e7f29c8c9?source=rss-98b825d4dc35------2) — *Thu Sep 10 2026 3:51 PM*
 - [When CPUs Betray Us: Understanding Spectre](https://medium.com/@chandra_1810/when-cpus-betray-us-understanding-spectre-429e0485fbfc?source=rss-98b825d4dc35------2) — *Thu Jul 09 2026 5:27 PM*
 - [Your VMs are not as safe as you think](https://medium.com/@chandra_1810/your-vms-are-not-as-safe-as-you-think-ccf6cfbc78e0?source=rss-98b825d4dc35------2) — *Sat May 16 2026 6:16 PM*
-- [Goodbye Windows, Hello Fedora: My One-Month Experience](https://medium.com/@chandra_1810/goodbye-windows-hello-fedora-my-one-month-experience-3fea811e4260?source=rss-98b825d4dc35------2) — *Thu Dec 04 2025 5:04 AM*<!-- BLOG-POST-LIST:END -->
+- [Goodbye Windows, Hello Fedora: My One-Month Experience](https://medium.com/@chandra_1810/goodbye-windows-hello-fedora-my-one-month-experience-3fea811e4260?source=rss-98b825d4dc35------2) — *Thu Dec 04 2025 5:04 AM*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
